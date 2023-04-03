@@ -1,8 +1,9 @@
 # Sistema com dois mini jogos.
 `Integrantes:
-Luiz Estrella
+Luiz Estrella,
+Leonardo Medeiros,
 Renan Moreira
-Leonardo Medeiros`
+`
 
 <h2>Descrição dos Jogos:<h2>
 <h3>
