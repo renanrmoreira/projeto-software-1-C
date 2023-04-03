@@ -1,5 +1,5 @@
 # Sistema com dois mini jogos.
-`Integrantes
+`Integrantes:
 Luiz Estrella
 Renan Moreira
 Leonardo Medeiros`
