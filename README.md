@@ -5,8 +5,8 @@ Renan Moreira
 Leonardo Medeiros`
 
 <h2>Descrição dos Jogos:<h2>
-  
 <h3>
+ 
 1. Perguntas e Respostas
 O jogo de perguntas e respostas consiste em uma série de cinco perguntas de múltipla escolha. O jogador deve responder às perguntas e, no final, seu desempenho é avaliado com base no número de acertos.
 
